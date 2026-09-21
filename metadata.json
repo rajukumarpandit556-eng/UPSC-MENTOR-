@@ -1,0 +1,6 @@
+{
+  "name": "UPSC Mentor",
+  "description": "AI-powered UPSC study teacher, doubt solver, concept explainer, reasoning coach, PYQ analysis, and Mains answer-writing assistant for UPSC CSE aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

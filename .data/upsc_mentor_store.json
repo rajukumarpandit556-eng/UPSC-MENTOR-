@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "usr_c9210507-8c2",
+      "name": "Aspirant (Demo)",
+      "email": "aspirant_ooexdt@upscmentor.internal",
+      "passwordHash": "f436419d8888f6cd9f39b9d37cae0f087750a9645a1563a33e41851eadd3b86374d9efd50c3135b0ff3e9aee7356f8c6f8a0090f4fba8e201cc32e3180d1f36c",
+      "salt": "8f7e8abcbd7fe70972f3aa8b485fa5b2",
+      "createdAt": "2026-09-21T16:01:27.194Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_9b16ad00-5d2",
+      "title": "What is the difference between Monetary Policy Transmissi...",
+      "subject": "Economy",
+      "mode": "normal",
+      "createdAt": "2026-09-21T16:01:12.497Z",
+      "updatedAt": "2026-09-21T16:01:15.602Z",
+      "messages": []
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1ec2c223-1cb",
+      "conversationId": "conv_9b16ad00-5d2",
+      "role": "user",
+      "content": "What is the difference between Monetary Policy Transmission and Liquidity Adjustment Facility?",
+      "createdAt": "2026-09-21T16:01:12.497Z"
+    },
+    {
+      "id": "msg_c90ffd1b-9ac",
+      "conversationId": "conv_9b16ad00-5d2",
+      "role": "assistant",
+      "content": "In UPSC CSE Economy, \"What is the difference between Monetary Policy Transmission and Liquidity Adjustment Facility?\" addresses a foundational concept requiring analytical clarity, constitutional/theoretical grounding, and applied governance perspective.",
+      "doubtType": "Conceptual",
+      "structuredData": {
+        "doubtType": "Conceptual",
+        "directAnswer": "In UPSC CSE Economy, \"What is the difference between Monetary Policy Transmission and Liquidity Adjustment Facility?\" addresses a foundational concept requiring analytical clarity, constitutional/theoretical grounding, and applied governance perspective.",
+        "hinglishExplanation": "Yeh concept exam ke liye bahut zaroori hai. Isko samajhne ke liye pehle basic definition, phir underlying rationale, aur aakhir mein practical UPSC application dekhna hoga.",
+        "technicalExplanation": "The concept operates through institutional mechanisms and established constitutional/empirical precedents. For UPSC, candidates must distinguish between statutory mandates, constitutional obligations, and administrative execution.",
+        "whyAndHow": "The institutional framework was created to balance state authority with democratic accountability, maintaining federal balance and adherence to the rule of law.",
+        "example": "Relevant landmark committee reports (e.g. Sarkaria Commission, 2nd Administrative Reforms Commission) and judicial interpretations illustrate the practical application.",
+        "upscConnection": {
+          "syllabusPaper": "GS Paper II/III: Economy core themes",
+          "relevance": "High recurring frequency in both Prelims statement-based questions and Mains analytical essays."
+        },
+        "relevantAngle": {
+          "prelimsAngle": "Watch out for categorical qualifiers like \"solely\", \"strictly\", or \"mandatorily under the Constitution\".",
+          "mainsAngle": "Structure your answer with introduction (definition/context), institutional dimensions, practical bottlenecks, and a forward-looking conclusion."
+        },
+        "commonTraps": [
+          "Confusing statutory provisions with constitutional mandates.",
+          "Overlooking federal nuances and center-state jurisdictional demarcations."
+        ],
+        "verification": {
+          "isExternallyVerified": false,
+          "verificationNote": "This response has not been externally verified against live gazettes.",
+          "sources": []
+        },
+        "upscTakeaway": [
+          "Focus on the precise legal/constitutional origin of the concept.",
+          "Identify the exact demand in Prelims statements to eliminate deceptive traps.",
+          "In Mains, substantiate theoretical points with committee recommendations and committee reports."
+        ]
+      },
+      "sources": [],
+      "createdAt": "2026-09-21T16:01:15.602Z"
+    }
+  ],
+  "savedDoubts": [
+    {
+      "id": "demo-art-32",
+      "question": "Why does Article 32 itself constitute a Fundamental Right, unlike ordinary legal remedies?",
+      "subject": "Polity",
+      "mode": "normal",
+      "directAnswer": "Article 32 is a Fundamental Right (Right to Constitutional Remedies) under Part III, meaning the right to move the Supreme Court for enforcement of Fundamental Rights is itself guaranteed, not a mere statutory discretion.",
+      "hinglishExplanation": "Article 32 sirf ek court jane ka procedure nahi hai, balki khud ek Fundamental Right hai. Iska matlab yeh hai ki agar aapke Part III rights violate hote hain, toh Supreme Court aapko sunne se mana nahi kar sakti.",
+      "technicalExplanation": "Under Article 32, the right to approach the Supreme Court is guaranteed under Part III. Dr. B.R. Ambedkar termed Article 32 as the \"Heart and Soul of the Constitution\". While Article 226 gives High Courts discretionary writ powers for any purpose, Article 32 is non-discretionary for Fundamental Rights violation.",
+      "whyAndHow": "Without a guaranteed enforcement mechanism, Part III declarations would be mere moral exhortations (declaratory). By making the remedy itself a Fundamental Right, the framers placed the Supreme Court as the \"Protector and Guarantor\" of Fundamental Rights.",
+      "example": "In Romesh Thappar v. State of Madras (1950), the Supreme Court ruled that it cannot refuse an application under Article 32 on the ground that the petitioner should first approach the High Court under Article 226.",
+      "upscConnection": {
+        "syllabusPaper": "GS Paper II: Indian Constitution — Historical Underpinnings, Evolution, Features, Amendments, Significant Provisions",
+        "relevance": "Frequently tested in Prelims (direct statements on Article 32 vs 226) and Mains (judiciary & constitutional remedies)."
+      },
+      "commonTraps": [
+        "UPSC Trap: Claiming High Courts under Art 226 have narrower writ jurisdiction than Supreme Court under Art 32. In reality, Art 226 has wider territorial and subject-matter scope (FRs + other legal rights).",
+        "UPSC Trap: Assuming Art 32 can be invoked to challenge ordinary violations of statutory law without infringing a Fundamental Right."
+      ],
+      "upscTakeaway": [
+        "Art 32 is itself a Fundamental Right (Part III); Art 226 is a constitutional right (Part VI) but NOT a Fundamental Right.",
+        "Art 32 remedy is guaranteed; Art 226 remedy is discretionary.",
+        "Art 32 scope is limited exclusively to Fundamental Rights; Art 226 extends to FRs and \"any other purpose\" (statutory/legal rights).",
+        "The Supreme Court is designated as the guarantor and protector of Fundamental Rights."
+      ],
+      "sources": [
+        {
+          "title": "Constitution of India — Article 32 & Article 226",
+          "organization": "Ministry of Law and Justice / Legislative Department",
+          "url": "https://legislative.gov.in/constitution-of-india/",
+          "verified": true,
+          "excerpt": "Article 32(1): The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed."
+        },
+        {
+          "title": "Romesh Thappar v. The State of Madras (1950 SCR 594)",
+          "organization": "Supreme Court of India",
+          "verified": true,
+          "excerpt": "The Supreme Court is established as a protector and guarantor of fundamental rights and cannot refuse to entertain applications seeking protection."
+        }
+      ],
+      "isMastered": false,
+      "reviewCount": 0,
+      "createdAt": "2026-09-21T16:00:56.885Z"
+    }
+  ]
+}
